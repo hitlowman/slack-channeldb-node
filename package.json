@@ -1,0 +1,23 @@
+{
+  "name": "slack-channeldb-node",
+  "version": "1.0.0",
+  "description": "A json-based key value database that persists its data in slack channels.  Designed for use in bots written in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests.js"
+  },
+  "keywords": [
+    "slack",
+    "json",
+    "data",
+    "db",
+    "nodejs",
+    "node",
+    "node.js"
+  ],
+  "author": "Nathan Rogers (628426@gmail.com) and the hitlowman team",
+  "license": "ISC",
+  "dependencies": {
+    "slack": "^8.0.0"
+  }
+}
